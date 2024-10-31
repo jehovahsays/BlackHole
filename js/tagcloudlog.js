@@ -8,4 +8,6 @@ var texts = [
 "uranus",
 "neptune",
 "pluto",
+"perpetual_motion",
+"coin_machine",
 ];var tc = TagCloud('.content', texts);console.log(tc);

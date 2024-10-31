@@ -14,6 +14,6 @@ header( 'Expires: 0' );
 header( 'Referrer-Policy:  same-origin' );
 header( 'Accept-Language: en-US,en;q=0.5' );
 header( 'Connection: Keep-alive' );
-header( 'Location: ./en/blackhole.html' );
+header( 'Location: ./index.html' );
 exit();		
 ?>	                     			   
